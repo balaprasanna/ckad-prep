@@ -1,5 +1,4 @@
-name=false
-#ckadprep
+name=ckadprep
 
 echo "Deleting cluster $name"
 
